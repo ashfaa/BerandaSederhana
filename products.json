@@ -1,0 +1,117 @@
+{
+    "items" : [
+        {
+            "sys" : {"id" : "1"},
+            "fields" : {
+                "title" : "tenda arei elliot",
+                "price" : 35000,
+                "image" : {"fields" : {"file" : {"url" :"./image/arei.jpeg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "2"},
+            "fields" : {
+                "title" : "headlamp energizer",
+                "price" : 8000,
+                "image" : {"fields" : {"file" : {"url" :"./image/headlamp.jpeg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "3"},
+            "fields" : {
+                "title" : "porable stove windproof",
+                "price" : 10000,
+                "image" : {"fields" : {"file" : {"url" :"./image/kompor.jpeg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "4"},
+            "fields" : {
+                "title" : "nesting ultralight",
+                "price" : 8000,
+                "image" : {"fields" : {"file" : {"url" :"./image/nesting.jpeg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "5"},
+            "fields" : {
+                "title" : "matras cacing",
+                "price" : 5000,
+                "image" : {"fields" : {"file" : {"url" :"./image/matrascacing.jpg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "6"},
+            "fields" : {
+                "title" : "matras aluminium",
+                "price" : 5000,
+                "image" : {"fields" : {"file" : {"url" :"./image/matrasalu.jpg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "7"},
+            "fields" : {
+                "title" : "headlamp",
+                "price" : 5000,
+                "image" : {"fields" : {"file" : {"url" :"./image/senter.jpg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "8"},
+            "fields" : {
+                "title" : "sleeping bag polar",
+                "price" : 7000,
+                "image" : {"fields" : {"file" : {"url" :"./image/sbpolar.jpg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "9"},
+            "fields" : {
+                "title" : "sleeping bag mummy",
+                "price" : 9000,
+                "image" : {"fields" : {"file" : {"url" :"./image/sbmummy.jpg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "10"},
+            "fields" : {
+                "title" : "sepatu hiking high",
+                "price" : 12000,
+                "image" : {"fields" : {"file" : {"url" :"./image/sepatuarei.jpg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "11"},
+            "fields" : {
+                "title" : "sepatu hiking low",
+                "price" : 20000,
+                "image" : {"fields" : {"file" : {"url" :"./image/anaconda.jpg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "12"},
+            "fields" : {
+                "title" : "gas portable",
+                "price" : 20000,
+                "image" : {"fields" : {"file" : {"url" :"./image/gas.jpeg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "13"},
+            "fields" : {
+                "title" : "trekking pole",
+                "price" :10000,
+                "image" : {"fields" : {"file" : {"url" :"./image/tp.jpg"}}}
+            }
+        },
+        {
+            "sys" : {"id" : "14"},
+            "fields" : {
+                "title" : "lampu tenda portable",
+                "price" : 5000,
+                "image" : {"fields" : {"file" : {"url" :"./image/lamputenda.jpg"}}}
+
+            }
+        }
+    ]
+}
